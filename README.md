@@ -7,7 +7,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## 目次
-1. [プロジェクトについて]
-2. [環境]
-3. [ディレクトリ構成]
-4. [開発環境構築]
+1. プロジェクトについて
+2. 環境
+3. ディレクトリ構成
+4. 開発環境構築
